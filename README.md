@@ -27,8 +27,6 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="" alt="MercyMugambi" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Hello Microverse Project</b></h3>
 
@@ -60,11 +58,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello_Microverse_Project] <a name="Hello_Microverse"></a>
+# 📖 Hello_Microverse_Project <a name="Hello_Microverse"></a>
 
 > This is my first microverse project under this program.
 
-**[Hello_Microverse]** is a project where i test my web programming skills.
+**Hello_Microverse** is a project where i test my web programming skills.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -91,19 +89,11 @@ After you're finished please remove all the comments and instructions!
 
 > The key features are:
 
-- **[create_index.html_file]**
-- **[change_color_of_heading]**
-- **[create_test.md_file_add_to_.ignore]**
+- **create index.html file**
+- **change color of heading**
+- **create test.md file add to .gitignore**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Deployed project link is below.
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -119,8 +109,6 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-- (http://127.0.0.1:5500/index.html)
-
 ### Setup
 
 Clone this repository to your desired folder:
@@ -128,17 +116,6 @@ Clone this repository to your desired folder:
 ```sh
   cd my-folder
   git clone https://github.com/mercymugambi/hello-microverse.git.com:myaccount/my-project.git
-```
-
-### Install
-
-Install this project with:
-
-Example command:
-
-```sh
-  cd my-project
-  gem install
 ```
 
 ### Usage
@@ -158,7 +135,8 @@ To run tests, run the following command:
 Example command:
 
 ```sh
-  open on your browser
+configure linter.yml file
+open on your browser
 ```
 
 ### Deployment
@@ -168,7 +146,7 @@ You can deploy this project using:
 Example:
 
 ```sh
-configure linter.yml file
+github pages
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -179,9 +157,9 @@ configure linter.yml file
 
 👤 **Author1**
 
-- GitHub: [@mercymugambi](https://github.com/mercymugambi)
-- Twitter: [@mercymugambi]https://twitter.com/MercyMugambi15)
-- LinkedIn: [@mercymugambi](https://www.linkedin.com/in/mercymugambi/)
+- GitHub: @mercymugambi(https://github.com/mercymugambi)
+- Twitter: @mercymugambi(https://twitter.com/MercyMugambi15)
+- LinkedIn: @mercymugambi(https://www.linkedin.com/in/mercymugambi/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -191,9 +169,9 @@ configure linter.yml file
 
 > Below are future features to be added.
 
-- [ ] **[more_content]**
-- [ ] **[mobile_version]**
-- [ ] **[contact_details]**
+- **more_content**
+- **mobile_version**
+- **contact_details**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -202,8 +180,6 @@ configure linter.yml file
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -227,13 +203,13 @@ I would like to thank microverse community and my coding partner(Yinka) for thei
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-- **[Question_1: Have you used linters to check for bugs?]**
+- **Question_1: Have you used linters to check for bugs?**
 
-  - [yes]
+  - yes
 
-- **[Question_2: Do the project use database?]**
+- **Question_2: Do the project use database?**
 
-  - [Answer_2: not at the moment. To be used as we scale the project]
+  - Answer_2: not at the moment. To be used as we scale the project
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
