@@ -38,10 +38,11 @@
     .header {
         color: #172B4D;
         font-weight: 700;
-        font-size: 25px;
+        font-size: 30px;
         padding-top: 20%;
         margin-left: 5%;
         margin-right: 5%;
+        line-height: 52px;
     }
 
     .heading-paragraph {
@@ -51,12 +52,14 @@
         margin-left: 5%;
         margin-right: 5%;
         text-align: justify;
+        line-height: 24px;
     }
     
     .heading-social {
         color: #7F8CFF;
         font-weight: 500;
         font-size: 16px;
+        line-height: 24px;
         margin: 5% 5%;
     }
 
